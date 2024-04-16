@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
             x1main.setVisibility(View.VISIBLE);
             x2main.setVisibility(View.VISIBLE);
             x1main.setText("x1 = " + sol1);
-            x2main.setText("x2 =  " + sol2);
+            x2main.setText("x2 = " + sol2);
         }
         else
         {
